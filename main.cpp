@@ -15,7 +15,7 @@ volatile int temp[]= {t1,t2,t3,t4,t5,t6,t7,t8,t9,t10};
 volatile int hum[]= {h1,h2,h3,h4,h5,h6,h7,h8,h9,h10};
 int input;
 
-
+//note for demonstrating stage and commit only
 using namespace std;
 
 int main()
